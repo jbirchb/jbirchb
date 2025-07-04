@@ -8,3 +8,4 @@ Component novice in...
 - Liquid
 - PowerShell
 - SQL
+- XML
